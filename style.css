@@ -489,9 +489,9 @@ footer .socials .fa-linkedin {
 @media (max-width: 768px) {
   .nav-toggle {
     display: block;
-    position: absolute;
-    top: 1rem;
-    left: 1rem; /* Position the toggle button on the left */
+    position: fixed;
+    top: 3.3rem;
+    left: 2.1rem; /* Position the toggle button on the left */
   }
 
   /* Side Menu Styling */
